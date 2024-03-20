@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Index lapa</title>
+        <title>RD - {% block nosaukums %} Index lapa {% endblock %}</title>
     </head>
     <body>
-        <h1>Sākums!</h1>
-        <P>Sveiki!</P>
+        <a href="/">Sākums</a>
+        <a href="/teksts">teksts</a>
+        <h1>Reiņa Delvera mājaslapa</h1>
+        {% block saturs %}
+        Teksts
+        {% endblock %}
+        {% block bilde %}
+        asdgasdg
+        {% endblock %}
     </body>
 </html>
