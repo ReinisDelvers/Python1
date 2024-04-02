@@ -99,11 +99,12 @@ for e in range(len(list2)):
 
 print(resultList)
 
-"""
+
+
 
 #Exercise 14???????????????
 for i in range(6):
     print("* "*i)
 
 
-    
+"""
