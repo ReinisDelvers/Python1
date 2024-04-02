@@ -33,12 +33,11 @@ for i in range(0, length, 2):
 
 
 
-#Exercise 4??????????????????
-def remove(string, i):
-
+#Exercise 4
+def remove_chars(str, n):
+    return str[n :]
     
-x = "abcdef"
-print(remove(x, 3))
+print(remove_chars("pynative", 3))
 
 
    
@@ -66,7 +65,8 @@ for i in range(len(list)):
 
 #Exercise 8
 for i in range(6):
-    print((str(i)+" ")*i)
+    print((str(i) + " ")*i)
+
 
 
 #Exercise 9
@@ -105,5 +105,5 @@ print(resultList)
 for i in range(6):
     print("* "*i)
 
-    
+
     
