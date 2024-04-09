@@ -1,0 +1,70 @@
+<div class="border-3 border-start border-bottom text-bg-light bg-opacity-50 col vh-100 sticky-top">
+    <div class="h-50">
+    <div class="row">
+      <div class="p-4 mb-2 bg-transparent text-dark"></div>
+    <h3>Populārākie ceļojumi:</h3>
+     
+    </div>
+      
+       <a class="text-decoration-none text-dark" href="/postans/2">
+    <div class="row">
+      <div class="col-5">
+        <img src="https://f11.pmo.ee/4UIGhAselW-gWvMmKhRzS3p3tPk=/685x0/nginx/o/2018/07/13/8927041t1he4bb.jpg" class=" p-1 rounded float-end" style="max-width:100%" alt="Picture3">
+      </div>
+       <div class="col">
+
+         <h6>person2</h6>
+        <h4>Pilsētas ceļojums</h4>
+
+       </div>
+    </div>
+       </a>
+      <a class="text-decoration-none text-dark" href="/postans/1">
+       <div class="row">
+      <div class="col-5">
+        <img src="https://www.ventasbalss.lv/upload/media/images/OC%2002.07/kalns1_KR.jpg" class="p-1 rounded float-end" style="max-width:100%" alt="Picture3"> 
+      </div>
+       <div class="col">
+         <h6>cilveks1</h6>
+        <h4>Vasaras atpūta</h4>
+       </div>
+    </div>
+      </a>
+
+      <div class="row">
+      </div>
+    </div>
+
+    <div class="col border-2 border-top">
+    <h3>Populārākie maršruti:</h3>
+    </div>
+    <a class="text-decoration-none text-dark" href="/postans/1">
+     <div class="row">
+      <div class="col-5">
+
+        <img src="https://www.ventasbalss.lv/upload/media/images/OC%2002.07/kalns1_KR.jpg" class="p-1 rounded float-end" style="max-width:100%" alt="Picture3"> 
+
+      </div>
+       <div class="col">
+         <h6>Vārds</h6>
+        <h4>Nosaukums</h4>
+       </div>
+    </div>
+    </a>
+    <a class="text-decoration-none text-dark" href="/postans">
+     <div class="row">
+      <div class="col-5">
+        <img src="https://img.freepik.com/free-photo/full-shot-travel-concept-with-landmarks_23-2149153258.jpg?3" class="p-1 rounded float-end" style="max-width:100%" alt="Picture3"> 
+
+      </div>
+       <div class="col">
+         <h6>Vārds</h6>
+        <h4>Nosaukums</h4>
+       </div>
+    </div>
+    </a>
+
+
+
+
+  </div>
