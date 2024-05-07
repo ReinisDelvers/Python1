@@ -1,4 +1,3 @@
-"""
 #Exercise 1
 def numberCombiner(n1, n2):
     if n1 * n2 <= 1000:
@@ -25,11 +24,11 @@ for CN in range(10):
 
 
 #Exercise 3
-str = "pynative"
-length = len(str)
+st = "pynative"
+length = len(st)
 
 for i in range(0, length, 2):
-    print(str[i])
+    print(str(i))
 
 
 
@@ -102,9 +101,9 @@ print(resultList)
 
 
 
-#Exercise 14???????????????
+#Exercise 14
 for i in range(6):
     print("* "*i)
 
 
-"""
+
